@@ -1,4 +1,6 @@
 🛒 Smart Shopping Cart App
+
+
 A smart, health-aware shopping cart web application designed to enhance the grocery experience. This app enables users to log in, scan products, manage a shopping cart, and receive real-time alerts for allergens based on a personalized allergy profile stored in an SQL database.
 
 🚀 Features
